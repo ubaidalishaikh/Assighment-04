@@ -6,8 +6,7 @@ Here’s a quick look at my progress through the GIAIc-101 Python Assignments:
 
 - **Assignment 00**: 
 - **Assignment 01**: 
-- **Assignments 1 to 6**:   
-  [📂 View Repository](https://github.com/ubaidalishaikh/GIAIc-101-Python-Project.git)
+- **Assignments 1 to 6**: (https://github.com/ubaidalishaikh/GIAIc-101-Python-Project.git)
 
 ---
 
